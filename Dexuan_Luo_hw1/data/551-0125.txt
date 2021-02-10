@@ -1,0 +1,697 @@
+25-Jan-21	    4:06 PM	    from Wensheng Wu to everyone:	ec2 setup?
+			
+25-Jan-21	    4:06 PM	    from Reid Pattis to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Carlin Cherry to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Connie Liang to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Jianing Chen to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Matthew Lee to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Jiahang Song to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Amit Birajdar to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Tuo Sun to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Xilai Nian to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Yingxi Lin to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Qing Wei to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Xulai Jiang to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Xuemin Zeng to everyone:	1
+			
+25-Jan-21	    4:06 PM	    from Divyam Khanna to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mengsha Wen to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xiuwen Zhang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xinran Liang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Zhishan Li to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Gangyu Pan to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Michael Delucia to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mahak Agarwal to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mohan Xing to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Jackson Yang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yunan Zhang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xiaoyu Wang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yidan Wang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Shree Shanmukhaa Gorla to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from ran tao to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Wensheng Wu to everyone:	python3.8
+			
+25-Jan-21	    4:07 PM	    from Rushi Shah to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xiaoyu Wang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Reid Pattis to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Connie Liang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Matthew Lee to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Jiahang Song to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xilai Nian to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xinran Liang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yidan Wang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mohan Xing to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Zixi Jiang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mahak Agarwal to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Zhishan Li to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Amit Birajdar to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Tuo Sun to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yunan Zhang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xiuwen Zhang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Divyam Khanna to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Qing Wei to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mengsha Wen to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from ran tao to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yuan Lu to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Carlin Cherry to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Gangyu Pan to everyone:	2
+			
+25-Jan-21	    4:07 PM	    from Shree Shanmukhaa Gorla to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Steven Marsh to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Erin Szeto to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Aleck Cervantes to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yingxi Lin to everyone:	q
+			
+25-Jan-21	    4:07 PM	    from Shicuo Xie to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from David May to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Michael Delucia to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Shihan Xu to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Sarah Pursley to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Jacob Bickman to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Jason Davenport to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Jackson Yang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Wensheng Wu to everyone:	java1.8
+			
+25-Jan-21	    4:07 PM	    from Xiaoyu Wang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xinran Liang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Reid Pattis to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Shree Shanmukhaa Gorla to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Rushi Shah to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Connie Liang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mengsha Wen to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Matthew Lee to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Amit Birajdar to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mohan Xing to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xilai Nian to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Jiahang Song to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yingxi Lin to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mahak Agarwal to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Zhishan Li to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Divyam Khanna to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Carlin Cherry to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Shicuo Xie to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Sarah Pursley to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Tuo Sun to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xiuwen Zhang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yidan Wang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Qing Wei to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from David May to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Michael Delucia to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Steven Marsh to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Wensheng Wu to everyone:	spark?
+			
+25-Jan-21	    4:07 PM	    from Xilai Nian to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Reid Pattis to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xiaoyu Wang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Matthew Lee to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Xinran Liang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Carlin Cherry to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Divyam Khanna to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Yidan Wang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Connie Liang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Jianing Chen to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Rushi Shah to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Jiewen Lang to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Zhishan Li to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Mahak Agarwal to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Tuo Sun to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Michael Delucia to everyone:	1
+			
+25-Jan-21	    4:07 PM	    from Amit Birajdar to everyone:	1
+			
+25-Jan-21	    4:08 PM	    from Yuan Lu to everyone:	0
+			
+25-Jan-21	    4:08 PM	    from Jiahang Song to everyone:	1
+			
+25-Jan-21	    4:08 PM	    from Mohan Xing to everyone:	1
+			
+25-Jan-21	    4:09 PM	    from Reid Pattis to everyone:	pipe
+			
+25-Jan-21	    4:10 PM	    from Wensheng Wu to everyone:	pipe
+			
+25-Jan-21	    4:11 PM	    from Divyam Khanna to everyone:	read
+			
+25-Jan-21	    4:12 PM	    from Reid Pattis to everyone:	copy
+			
+25-Jan-21	    4:12 PM	    from Reid Pattis to everyone:	remove
+			
+25-Jan-21	    4:13 PM	    from Rushi Shah to everyone:	reduce
+			
+25-Jan-21	    4:13 PM	    from Yidan Wang to everyone:	reduce
+			
+25-Jan-21	    4:13 PM	    from Connie Liang to everyone:	reduce
+			
+25-Jan-21	    4:13 PM	    from Reid Pattis to everyone:	sum()
+			
+25-Jan-21	    4:15 PM	    from Wensheng Wu to everyone:	transformation
+			
+25-Jan-21	    4:16 PM	    from Sarah Pursley to everyone:	what were the commands after sum(l)
+			
+25-Jan-21	    4:17 PM	    from Rushi Shah to everyone:	lambda
+			
+25-Jan-21	    4:17 PM	    from Chaitali Bharat Joshi to everyone:	2
+			
+25-Jan-21	    4:17 PM	    from Yunan Zhang to everyone:	2
+			
+25-Jan-21	    4:17 PM	    from Chaitali Bharat Joshi to everyone:	function
+			
+25-Jan-21	    4:17 PM	    from Divyam Khanna to everyone:	"map(lambda x: 2x, l)"
+			
+25-Jan-21	    4:17 PM	    from Reid Pattis to everyone:	function
+			
+25-Jan-21	    4:17 PM	    from Yidan Wang to everyone:	function
+			
+25-Jan-21	    4:18 PM	    from Chaitali Bharat Joshi to everyone:	unnamed function
+			
+25-Jan-21	    4:18 PM	    from Rushi Shah to everyone:	1
+			
+25-Jan-21	    4:19 PM	    from Rushi Shah to everyone:	xtimes2
+			
+25-Jan-21	    4:19 PM	    from Connie Liang to everyone:	x*2
+			
+25-Jan-21	    4:20 PM	    from Rushi Shah to everyone:	list(g)
+			
+25-Jan-21	    4:20 PM	    from Reid Pattis to everyone:	for loop
+			
+25-Jan-21	    4:21 PM	    from Reid Pattis to everyone:	for element in g:
+			
+25-Jan-21	    4:21 PM	    from Steven Marsh to everyone:	can you use bracket notation?
+			
+25-Jan-21	    4:22 PM	    from Rushi Shah to everyone:	gen
+			
+25-Jan-21	    4:22 PM	    from Reid Pattis to everyone:	list
+			
+25-Jan-21	    4:22 PM	    from Tuo Sun to everyone:	list
+			
+25-Jan-21	    4:22 PM	    from Connie Liang to everyone:	generator?
+			
+25-Jan-21	    4:22 PM	    from Xiuwen Zhang to everyone:	list
+			
+25-Jan-21	    4:22 PM	    from Erin Szeto to everyone:	list
+			
+25-Jan-21	    4:22 PM	    from Mahak Agarwal to everyone:	list
+			
+25-Jan-21	    4:22 PM	    from Peizhen Li to everyone:	list
+			
+25-Jan-21	    4:22 PM	    from Reid Pattis to everyone:	wow. never seen this feature before. 
+			
+25-Jan-21	    4:23 PM	    from Reid Pattis to everyone:	while True:
+			
+25-Jan-21	    4:25 PM	    from Rushi Shah to everyone:	Does a generator take less memory than a list ?
+			
+25-Jan-21	    4:26 PM	    from Reid Pattis to everyone:	sum(g)
+			
+25-Jan-21	    4:28 PM	    from Reid Pattis to everyone:	function?
+			
+25-Jan-21	    4:28 PM	    from Connie Liang to everyone:	function
+			
+25-Jan-21	    4:28 PM	    from Peizhen Li to everyone:	function
+			
+25-Jan-21	    4:28 PM	    from Jacob Bickman to everyone:	lambda 
+			
+25-Jan-21	    4:28 PM	    from Chaitali Bharat Joshi to everyone:	list
+			
+25-Jan-21	    4:28 PM	    from Connie Liang to everyone:	sequence
+			
+25-Jan-21	    4:28 PM	    from Reid Pattis to everyone:	generator?
+			
+25-Jan-21	    4:28 PM	    from Yidan Wang to everyone:	list
+			
+25-Jan-21	    4:29 PM	    from Peizhen Li to everyone:	list
+			
+25-Jan-21	    4:29 PM	    from Reid Pattis to everyone:	1
+			
+25-Jan-21	    4:29 PM	    from Xiuwen Zhang to everyone:	1
+			
+25-Jan-21	    4:29 PM	    from Jiahang Song to everyone:	1
+			
+25-Jan-21	    4:29 PM	    from Divyam Khanna to everyone:	2
+			
+25-Jan-21	    4:30 PM	    from Xuemin Zeng to everyone:	2?
+			
+25-Jan-21	    4:30 PM	    from Yidan Wang to everyone:	3+2
+			
+25-Jan-21	    4:30 PM	    from Rushi Shah to everyone:	3+3
+			
+25-Jan-21	    4:30 PM	    from Connie Liang to everyone:	3+3
+			
+25-Jan-21	    4:30 PM	    from Chaitali Bharat Joshi to everyone:	add 3
+			
+25-Jan-21	    4:30 PM	    from Qing Wei to everyone:	3+3
+			
+25-Jan-21	    4:30 PM	    from Jiahang Song to everyone:	3+3
+			
+25-Jan-21	    4:30 PM	    from Peizhen Li to everyone:	3+.3
+			
+25-Jan-21	    4:31 PM	    from Yidan Wang to everyone:	3+3
+			
+25-Jan-21	    4:31 PM	    from Connie Liang to everyone:	4
+			
+25-Jan-21	    4:31 PM	    from Jiahang Song to everyone:	4
+			
+25-Jan-21	    4:31 PM	    from Qing Wei to everyone:	4
+			
+25-Jan-21	    4:31 PM	    from Yidan Wang to everyone:	4
+			
+25-Jan-21	    4:31 PM	    from Xinran Liang to everyone:	4
+			
+25-Jan-21	    4:32 PM	    from Rushi Shah to everyone:	l[1:]
+			
+25-Jan-21	    4:33 PM	    from Reid Pattis to everyone:	u += x
+			
+25-Jan-21	    4:33 PM	    from Connie Liang to everyone:	U+=x
+			
+25-Jan-21	    4:33 PM	    from Rushi Shah to everyone:	u = u +x
+			
+25-Jan-21	    4:35 PM	    from Amit Birajdar to everyone:	2
+			
+25-Jan-21	    4:35 PM	    from Jacob Bickman to everyone:	2
+			
+25-Jan-21	    4:35 PM	    from Xiuwen Zhang to everyone:	2
+			
+25-Jan-21	    4:35 PM	    from Chaitali Bharat Joshi to everyone:	2
+			
+25-Jan-21	    4:35 PM	    from Xuemin Zeng to everyone:	2
+			
+25-Jan-21	    4:35 PM	    from Mengsha Wen to everyone:	2
+			
+25-Jan-21	    4:35 PM	    from Reid Pattis to everyone:	cumulator
+			
+25-Jan-21	    4:35 PM	    from Rushi Shah to everyone:	l
+			
+25-Jan-21	    4:35 PM	    from Chaitali Bharat Joshi to everyone:	list
+			
+25-Jan-21	    4:35 PM	    from Rushi Shah to everyone:	x
+			
+25-Jan-21	    4:35 PM	    from Connie Liang to everyone:	l
+			
+25-Jan-21	    4:35 PM	    from Jacob Bickman to everyone:	x
+			
+25-Jan-21	    4:35 PM	    from Xuemin Zeng to everyone:	x[2]
+			
+25-Jan-21	    4:37 PM	    from Rushi Shah to everyone:	+=x
+			
+25-Jan-21	    4:37 PM	    from Reid Pattis to everyone:	U+x
+			
+25-Jan-21	    4:37 PM	    from Jacob Bickman to everyone:	U + x
+			
+25-Jan-21	    4:37 PM	    from Shree Shanmukhaa Gorla to everyone:	"f(u,x)"
+			
+25-Jan-21	    4:37 PM	    from Peizhen Li to everyone:	u+x
+			
+25-Jan-21	    4:37 PM	    from Rushi Shah to everyone:	u
+			
+25-Jan-21	    4:37 PM	    from Shree Shanmukhaa Gorla to everyone:	u
+			
+25-Jan-21	    4:37 PM	    from Jacob Bickman to everyone:	u
+			
+25-Jan-21	    4:37 PM	    from Chaitali Bharat Joshi to everyone:	U
+			
+25-Jan-21	    4:38 PM	    from Reid Pattis to everyone:	what happens if l is empty?
+			
+25-Jan-21	    4:38 PM	    from Rushi Shah to everyone:	return u
+			
+25-Jan-21	    4:38 PM	    from Steven Marsh to everyone:	wont it syntaxerror on splice notation?
+			
+25-Jan-21	    4:38 PM	    from Reid Pattis to everyone:	maybe just 1?
+			
+25-Jan-21	    4:38 PM	    from Dhruvil Anil Trivedi to everyone:	1
+			
+25-Jan-21	    4:38 PM	    from Chaitali Bharat Joshi to everyone:	1
+			
+25-Jan-21	    4:39 PM	    from Reid Pattis to everyone:	ah. that makes sense.
+			
+25-Jan-21	    4:39 PM	    from Chaitali Bharat Joshi to everyone:	1
+			
+25-Jan-21	    4:39 PM	    from Xiuwen Zhang to everyone:	1
+			
+25-Jan-21	    4:39 PM	    from Reid Pattis to everyone:	0
+			
+25-Jan-21	    4:39 PM	    from Xiuwen Zhang to everyone:	0
+			
+25-Jan-21	    4:39 PM	    from Chaitali Bharat Joshi to everyone:	0
+			
+25-Jan-21	    4:39 PM	    from Qing Wei to everyone:	0
+			
+25-Jan-21	    4:39 PM	    from Dhruvil Anil Trivedi to everyone:	0
+			
+25-Jan-21	    4:39 PM	    from Chaitali Bharat Joshi to everyone:	4
+			
+25-Jan-21	    4:39 PM	    from Xiuwen Zhang to everyone:	4?
+			
+25-Jan-21	    4:39 PM	    from Dhruvil Anil Trivedi to everyone:	3
+			
+25-Jan-21	    4:39 PM	    from Reid Pattis to everyone:	4
+			
+25-Jan-21	    4:39 PM	    from Yuan Lu to everyone:	4
+			
+25-Jan-21	    4:39 PM	    from Shicuo Xie to everyone:	4
+			
+25-Jan-21	    4:39 PM	    from Amit Birajdar to everyone:	4
+			
+25-Jan-21	    4:42 PM	    from Erin Szeto to everyone:	Python
+			
+25-Jan-21	    4:42 PM	    from Chaitali Bharat Joshi to everyone:	python
+			
+25-Jan-21	    4:42 PM	    from Mahak Agarwal to everyone:	python
+			
+25-Jan-21	    4:42 PM	    from Jacob Bickman to everyone:	python
+			
+25-Jan-21	    4:42 PM	    from Mengsha Wen to everyone:	python
+			
+25-Jan-21	    4:42 PM	    from Reid Pattis to everyone:	python
+			
+25-Jan-21	    4:42 PM	    from Qing Wei to everyone:	python
+			
+25-Jan-21	    4:42 PM	    from Xuemin Zeng to everyone:	pythin
+			
+25-Jan-21	    4:42 PM	    from Rushi Shah to everyone:	python
+			
+25-Jan-21	    4:42 PM	    from Wensheng Wu to everyone:	RDD
+			
+25-Jan-21	    4:42 PM	    from Wensheng Wu to everyone:	resillient distributed dataset
+			
+25-Jan-21	    4:43 PM	    from Wensheng Wu to everyone:	spark context
+			
+25-Jan-21	    4:45 PM	    from Rushi Shah to everyone:	Professor can you please explain RDD  briefly
+			
+25-Jan-21	    4:46 PM	    from Rushi Shah to everyone:	is it like pandas data frame ?
+			
+25-Jan-21	    4:47 PM	    from Xuemin Zeng to everyone:	RDD is unstructured dataframe?
+			
+25-Jan-21	    4:49 PM	    from Jacob Bickman to everyone:	3
+			
+25-Jan-21	    4:49 PM	    from Shicuo Xie to everyone:	3
+			
+25-Jan-21	    4:49 PM	    from Reid Pattis to everyone:	3
+			
+25-Jan-21	    4:49 PM	    from Mahak Agarwal to everyone:	3
+			
+25-Jan-21	    4:49 PM	    from Jiahang Song to everyone:	3
+			
+25-Jan-21	    4:50 PM	    from Jacob Bickman to everyone:	12
+			
+25-Jan-21	    4:50 PM	    from Reid Pattis to everyone:	12
+			
+25-Jan-21	    4:50 PM	    from Shicuo Xie to everyone:	12
+			
+25-Jan-21	    4:50 PM	    from Rushi Shah to everyone:	12
+			
+25-Jan-21	    4:50 PM	    from Mahak Agarwal to everyone:	12
+			
+25-Jan-21	    4:50 PM	    from Jiahang Song to everyone:	12
+			
+25-Jan-21	    4:50 PM	    from Reid Pattis to everyone:	data?
+			
+25-Jan-21	    4:50 PM	    from Shree Shanmukhaa Gorla to everyone:	"3,12"
+			
+25-Jan-21	    4:51 PM	    from Yuan Lu to everyone:	data
+			
+25-Jan-21	    4:51 PM	    from Erin Szeto to everyone:	"3,12"
+			
+25-Jan-21	    4:52 PM	    from Steven Marsh to everyone:	"is the partition random? like [1,2] and [3,4,5]"
+			
+25-Jan-21	    4:54 PM	    from Jiahang Song to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Reid Pattis to everyone:	4'
+			
+25-Jan-21	    4:54 PM	    from Jacob Bickman to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Erin Szeto to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Chaitali Bharat Joshi to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Shicuo Xie to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Steven Marsh to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Yiwei Yu to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Michael Delucia to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Qing Wei to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Mahak Agarwal to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from David May to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Amit Birajdar to everyone:	4
+			
+25-Jan-21	    4:54 PM	    from Peizhen Li to everyone:	4
+			
+25-Jan-21	    4:55 PM	    from Wensheng Wu to everyone:	jar
+			
+25-Jan-21	    4:55 PM	    from Reid Pattis to everyone:	java library
+			
+25-Jan-21	    4:55 PM	    from Shree Shanmukhaa Gorla to everyone:	library
+			
+25-Jan-21	    5:07 PM	    from Reid Pattis to everyone:	yes
+			
+25-Jan-21	    5:12 PM	    from Reid Pattis to everyone:	1024
+			
+25-Jan-21	    5:12 PM	    from Dhruvil Anil Trivedi to everyone:	1024
+			
+25-Jan-21	    5:12 PM	    from Yidan Wang to everyone:	1024
+			
+25-Jan-21	    5:12 PM	    from Yuan Lu to everyone:	1024
+			
+25-Jan-21	    5:12 PM	    from Jackson Yang to everyone:	1024
+			
+25-Jan-21	    5:12 PM	    from Steven Marsh to everyone:	2^10
+			
+25-Jan-21	    5:12 PM	    from Reid Pattis to everyone:	2^10
+			
+25-Jan-21	    5:14 PM	    from Reid Pattis to everyone:	yes
+			
+25-Jan-21	    5:16 PM	    from Tuo Sun to everyone:	0
+			
+25-Jan-21	    5:17 PM	    from Wensheng Wu to everyone:	blocks
+			
+25-Jan-21	    5:17 PM	    from Reid Pattis to everyone:	hard
+			
+25-Jan-21	    5:17 PM	    from David May to everyone:	HD
+			
+25-Jan-21	    5:18 PM	    from Wensheng Wu to everyone:	P/E?
+			
+25-Jan-21	    5:22 PM	    from Reid Pattis to everyone:	backup?
+			
+25-Jan-21	    5:22 PM	    from Ankur Mohanty to everyone:	replication
+			
+25-Jan-21	    5:23 PM	    from Reid Pattis to everyone:	2
+			
+25-Jan-21	    5:23 PM	    from Rushi Shah to everyone:	2
+			
+25-Jan-21	    5:23 PM	    from Mahak Agarwal to everyone:	2
+			
+25-Jan-21	    5:23 PM	    from Erin Szeto to everyone:	2
+			
+25-Jan-21	    5:23 PM	    from Yuan Lu to everyone:	2
+			
+25-Jan-21	    5:23 PM	    from Yiwei Yu to everyone:	2
+			
+25-Jan-21	    5:23 PM	    from Matthew Lee to everyone:	2
+			
+25-Jan-21	    5:23 PM	    from Jiahang Song to everyone:	2
+			
+25-Jan-21	    5:23 PM	    from Erin Szeto to everyone:	different
+			
+25-Jan-21	    5:23 PM	    from Rushi Shah to everyone:	dif
+			
+25-Jan-21	    5:23 PM	    from Yuan Lu to everyone:	different
+			
+25-Jan-21	    5:23 PM	    from Reid Pattis to everyone:	different
+			
+25-Jan-21	    5:23 PM	    from Matthew Lee to everyone:	differen
+			
+25-Jan-21	    5:23 PM	    from Mahak Agarwal to everyone:	different
+			
+25-Jan-21	    5:25 PM	    from Reid Pattis to everyone:	dict
+			
+25-Jan-21	    5:25 PM	    from Reid Pattis to everyone:	python
+			
+25-Jan-21	    5:25 PM	    from Xinran Liang to everyone:	dictionary
+			
+25-Jan-21	    5:25 PM	    from David May to everyone:	dictionary
+			
+25-Jan-21	    5:25 PM	    from Xuemin Zeng to everyone:	dict
+			
+25-Jan-21	    5:25 PM	    from Matthew Lee to everyone:	object
+			
+25-Jan-21	    5:26 PM	    from Sarah Pursley to everyone:	object
+			
+25-Jan-21	    5:26 PM	    from Yidan Wang to everyone:	object
+			
+25-Jan-21	    5:26 PM	    from David May to everyone:	list
+			
+25-Jan-21	    5:26 PM	    from Yidan Wang to everyone:	list
+			
+25-Jan-21	    5:26 PM	    from Matthew Lee to everyone:	list
+			
+25-Jan-21	    5:26 PM	    from Rushi Shah to everyone:	None
+			
+25-Jan-21	    5:26 PM	    from Matthew Lee to everyone:	None
+			
+25-Jan-21	    5:26 PM	    from Yuan Lu to everyone:	None
+			
+25-Jan-21	    5:27 PM	    from Wensheng Wu to everyone:	path-like
+			
+25-Jan-21	    5:28 PM	    from Rushi Shah to everyone:	Professor what is the difference between the Xpath and XML
+			
+25-Jan-21	    5:29 PM	    from Wensheng Wu to everyone:	/bib/book[1]
+			
+25-Jan-21	    5:30 PM	    from Wensheng Wu to everyone:	XQuery
+			
+25-Jan-21	    5:30 PM	    from Rushi Shah to everyone:	okay professor
+			
+25-Jan-21	    5:36 PM	    from Ankur Mohanty to everyone:	Atomicity
+			
+25-Jan-21	    5:37 PM	    from Chaitali Bharat Joshi to everyone:	consistency
+			
+25-Jan-21	    5:37 PM	    from Mengsha Wen to everyone:	consistency
+			
+25-Jan-21	    5:37 PM	    from Ankur Mohanty to everyone:	Consistency Isolation Durability
+			
+25-Jan-21	    5:45 PM	    from Reid Pattis to everyone:	yes
+			
+25-Jan-21	    5:45 PM	    from Chaitali Bharat Joshi to everyone:	yes
+			
+25-Jan-21	    5:45 PM	    from Peizhen Li to everyone:	yes
+			
+25-Jan-21	    5:45 PM	    from Mahak Agarwal to everyone:	yes
+			
+			
+25-Jan-21	    5:51 PM	    from Rushi Shah to everyone:	Professor what will be the quiz about ?
+			
+25-Jan-21	    5:52 PM	    from Peizhen Li to everyone:	"Professor, do we have quizz on Wednesday?"
+			
+25-Jan-21	    5:52 PM	    from Rushi Shah to everyone:	Thank you professor
+			
+25-Jan-21	    5:52 PM	    from Matthew Lee to everyone:	Thank you Professor!
+			
+25-Jan-21	    5:52 PM	    from Shicuo Xie to everyone:	Thank you!
+			
+25-Jan-21	    5:53 PM	    from Dhruvil Anil Trivedi to everyone:	Thank you sir
+			
+25-Jan-21	    5:53 PM	    from Peizhen Li to everyone:	Thank you
+			
+25-Jan-21	    5:53 PM	    from Xinran Liang to everyone:	thank you
+			
+25-Jan-21	    5:53 PM	    from Reid Pattis to everyone:	thank you!
+			
+25-Jan-21	    5:53 PM	    from Michael Delucia to everyone:	thank you!
+			
+25-Jan-21	    5:53 PM	    from Xuemin Zeng to everyone:	"thanks, bye!"
+			
+25-Jan-21	    5:53 PM	    from Qing Wei to everyone:	thank you
+			
+25-Jan-21	    5:53 PM	    from Xiuwen Zhang to everyone:	thank you!
+			
+25-Jan-21	    5:53 PM	    from Divyam Khanna to everyone:	thanks
+			
+25-Jan-21	    5:53 PM	    from Jianing Chen to everyone:	thank you
+			
+			
+25-Jan-21	    5:53 PM	    from Chaitali Bharat Joshi to everyone:	Thank you professor
