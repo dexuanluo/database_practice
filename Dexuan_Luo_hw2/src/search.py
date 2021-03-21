@@ -1,6 +1,6 @@
 import os
 from sys import argv
-from lxml.etree import parse
+from lxml.etree import parse, tostring
 
 PUNCTUATION = "!\"#$%&'()*+, -./:;<=>?@[\]^_`{|}~"
 WHITE_SPACE = " "
@@ -46,6 +46,7 @@ if __name__ == "__main__":
                 candidates[which] = set()
             if where:
                 candidates[which].add(where)
+    
     res = []
     for which in candidates:
         doc = parse(input_path + "/" + which)
@@ -56,11 +57,21 @@ if __name__ == "__main__":
                     tokens = tokenizer(node.text, PUNCTUATION)
                     for keyword in keywords:
                         if keyword in tokens:
-                            res.append((node, which))
+                            res.append((node, which, 0))
                             break
+                if node.attrib:
+                    for att in node.attrib:
+                        if node.attrib[att]:
+                            tokens = tokens = tokenizer(node.attrib[att], PUNCTUATION)
+                            for keyword in keywords:
+                                if keyword in tokens:
+                                    res.append((node, which, 1))
+                                    break
     
-    for node, fileName in res:
-        print("Element: <{}>{}</{}>".format(node.tag, node.text.rstrip().lstrip(), node.tag))
+    for node, fileName, isAtt in res:
+        
+        print("Element: " + tostring(node).decode("utf-8").rstrip())
+        
         print("File: {}".format(fileName))
     
     if not res:

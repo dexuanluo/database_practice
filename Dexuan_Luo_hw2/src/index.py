@@ -47,7 +47,11 @@ def dfs(fileName, node, indexTree):
         if node.text:
             tokens = tokenizer(node.text, PUNCTUATION)
             record(fileName, path, tokens, indexTree)
-        
+        if node.attrib:
+            for att in node.attrib:
+                if node.attrib[att]:
+                    tokens = tokenizer(node.attrib[att], PUNCTUATION)
+                    record(fileName, path, tokens, indexTree)
         for child in node:
             stack.append((child, path + "." + child.tag))
 
